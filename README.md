@@ -1,7 +1,7 @@
 
 # Classify Mammographic Mass with ANN and Logistic Regression
 
-Content presentation will be created as soon as possible.
+Content presentation will be added as soon as possible.
 
 ## Contact Me
 
